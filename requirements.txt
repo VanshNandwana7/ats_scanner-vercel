@@ -1,4 +1,7 @@
+fastapi
+mangum
 google-generativeai
 PyMuPDF
 python-docx
 python-multipart
+uvicorn
