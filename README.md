@@ -115,3 +115,4 @@ GOOGLE_API_KEY=your_key_here
 
 ## 📄 License
 MIT License
+# ats-scanner
